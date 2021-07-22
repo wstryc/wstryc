@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wstryc
 - 👀 I’m interested in Statistics
-- 🌱 I’m currently learning Python, R and SQL
+- 🌱 I’m currently learning R, SQL and Scala
 - 📫Feel free to reach me out at wstryc@gmail.com
 
 <!---
